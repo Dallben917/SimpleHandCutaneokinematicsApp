@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": ""
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left MCP extension",
+    "Potential Functional Implications": "Wash face"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left MCP extension",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left MCP extension",
+    "Potential Functional Implications": "Brush Teeth"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left thumb MCP abduction",
+    "Potential Functional Implications": "Wash face"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left thumb MCP abduction",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left thumb MCP abduction",
+    "Potential Functional Implications": "Brush Teeth"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left palmar expansion",
+    "Potential Functional Implications": "Wash face"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left palmar expansion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_left_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left palmar expansion",
+    "Potential Functional Implications": "Brush Teeth"
+  },
+  {
+    "id": "anterior_proximal_left_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left thumb IP extension",
+    "Potential Functional Implications": "Reaching for objects"
+  },
+  {
+    "id": "anterior_proximal_left_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left thumb IP extension",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_proximal_left_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left thumb abduction",
+    "Potential Functional Implications": "Reaching for objects"
+  },
+  {
+    "id": "anterior_proximal_left_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left thumb abduction",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_left_second_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_second_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_second_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_second_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_second_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_second_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_second_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_second_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_second_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 2nd DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_third_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 3rd PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_third_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 3rd PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_third_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 3rd PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_third_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 3rd DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_third_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 3rd DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_third_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 3rd DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_third_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_third_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_third_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_fourth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 4th PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_fourth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 4th PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_fourth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 4th PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_fourth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 4th DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_fourth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 4th DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_fourth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 4th DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_fourth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_fourth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_fourth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_fifth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 5th PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_fifth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 5th PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_fifth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 5th PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_fifth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Left 5th DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_fifth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 5th DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_fifth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "Left 5th DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_left_fifth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_left_fifth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_left_fifth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "posterior_left_dorsal_hand",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left MCP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left MCP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_proximal_left_thumb",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left thumb IP flexion",
+    "Potential Functional Implications": "Prehension"
+  },
+  {
+    "id": "posterior_proximal_left_thumb",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left thumb abduction",
+    "Potential Functional Implications": "Prehension"
+  },
+  {
+    "id": "posterior_distal_left_thumb",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Prehension"
+  },
+  {
+    "id": "posterior_left_second_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 2nd PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_second_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 2nd PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_second_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 2nd DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_second_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 2nd DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_second_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_second_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_third_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 3rd PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_third_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 3rd PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_third_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 3rd DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_third_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 3rd DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_third_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_third_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_fourth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 4th PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_fourth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 4th PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_fourth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 4th DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_fourth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 4th DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_fourth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_fourth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_fifth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 5th PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_fifth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 5th PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_fifth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 5th DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_fifth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Left 5th DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_left_fifth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_left_fifth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right MCP extension",
+    "Potential Functional Implications": "Wash face"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right MCP extension",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right MCP extension",
+    "Potential Functional Implications": "Brush Teeth"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right thumb MCP abduction",
+    "Potential Functional Implications": "Wash face"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right thumb MCP abduction",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right thumb MCP abduction",
+    "Potential Functional Implications": "Brush Teeth"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Palmar expansion",
+    "Potential Functional Implications": "Wash face"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Palmar expansion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_right_palm",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Palmar expansion",
+    "Potential Functional Implications": "Brush Teeth"
+  },
+  {
+    "id": "anterior_proximal_right_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right thumb IP extension",
+    "Potential Functional Implications": "Reaching for objects"
+  },
+  {
+    "id": "anterior_proximal_right_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right thumb IP extension",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_proximal_right_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right thumb abduction",
+    "Potential Functional Implications": "Reaching for objects"
+  },
+  {
+    "id": "anterior_proximal_right_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right thumb abduction",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_distal_right_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_distal_right_thumb",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_second_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 2nd PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_second_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 2nd PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_second_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 2nd PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_second_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 2nd DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_second_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 2nd DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_second_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 2nd DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_second_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_second_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_second_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_third_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 3rd PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_third_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 3rd PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_third_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 3rd PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_third_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 3rd DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_third_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 3rd DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_third_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 3rd DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_third_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_third_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_third_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_fourth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 4th PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_fourth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 4th PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_fourth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 4th PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_fourth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 4th DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_fourth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 4th DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_fourth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 4th DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_fourth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_fourth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_fourth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_fifth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 5th PIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_fifth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 5th PIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_fifth_proximal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 5th PIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_fifth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 5th DIP extension",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_fifth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 5th DIP extension",
+    "Potential Functional Implications": "Cleaning"
+  },
+  {
+    "id": "anterior_right_fifth_middle_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "Right 5th DIP extension",
+    "Potential Functional Implications": "Bathing"
+  },
+  {
+    "id": "anterior_right_fifth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Holding phone"
+  },
+  {
+    "id": "anterior_right_fifth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "anterior_right_fifth_distal_phalanx",
+    "Anterior": "x",
+    "Posterior": "",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_dorsal_hand",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right MCP flexion",
+    "Potential Functional Implications": "Prehension"
+  },
+  {
+    "id": "posterior_proximal_right_thumb",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right thumb IP flexion",
+    "Potential Functional Implications": "Prehension"
+  },
+  {
+    "id": "posterior_proximal_right_thumb",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right thumb abduction",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_distal_left_thumb",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_second_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 2nd PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_second_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 2nd PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_second_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 2nd DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_second_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 2nd DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_second_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_second_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_third_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 3rd PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_third_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 3rd PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_third_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 3rd DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_third_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 3rd DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_third_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_third_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_fourth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 4th PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_fourth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 4th PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_fourth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 4th DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_fourth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 4th DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_fourth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_fourth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_fifth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 5th PIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_fifth_proximal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 5th PIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_fifth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 5th DIP flexion",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_fifth_middle_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "Right 5th DIP flexion",
+    "Potential Functional Implications": "Dressing"
+  },
+  {
+    "id": "posterior_right_fifth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Feed self"
+  },
+  {
+    "id": "posterior_right_fifth_distal_phalanx",
+    "Anterior": "",
+    "Posterior": "x",
+    "Stretches to perform": "",
+    "Potential Functional Implications": "Dressing"
+  }
+]
