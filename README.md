@@ -17,6 +17,8 @@ This app can be used on all mobile devices such as smart phones and tablets.
 When used on a mobile device, the user can pinch-in or out with two fingers for zooming in and out.
 Scrolling up and down can be done with one finger.
 
+Author: James Lenk, PT
+
 Supporting Research for the application of Cutaneous Functional Unit theory as follows:
 
 Ingrid Parry, Daniel Tancredi, Janice Bell, 3 Cutaneous Functional Unit (CFUs) Burn Features Associated with Motion Loss at Hospital Discharge, Journal of Burn Care & Research, Volume 46, Issue Supplement_1, March/April 2025, Page S2, https://doi.org/10.1093/jbcr/iraf019.003
